@@ -12,7 +12,7 @@
         "@types/lodash": "^4.14.149",
         "@types/socket.io-client": "^1.4.32",
         "core-js": "^3.4.3",
-        "gsap": "^3.0.4",
+        "gsap": "^3.6.0",
         "interactjs": "~1.7.2",
         "lodash": "^4.17.15",
         "socket.io-client": "^2.3.0",
